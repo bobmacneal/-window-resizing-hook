@@ -16,6 +16,7 @@ git clone https://github.com/bobmacneal/resizing-hook-demo.git
 Install node packages:
 
 ```
+cd resizing-hook-demo
 yarn
 ```
 
@@ -28,6 +29,7 @@ curl -o- -L https://yarnpkg.com/install.sh | bash
 
 ## Run
 
-`yarn start` 
-
+```
+yarn start
+```
 Application opens to http://localhost:3000
