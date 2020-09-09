@@ -1,6 +1,6 @@
 export const AppRoutes = {
-  Home: {URL: '/', TITLE: 'Home'},
-  Widgets: {URL: '/widgets', TITLE: 'Edit Widget'},
+  Home: {URL: '/', TITLE: 'Demo'},
+  Widgets: {URL: '/widgets', TITLE: 'Widgets'},
 }
 
 export const SidebarPixelWidth = {
