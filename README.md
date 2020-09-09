@@ -8,7 +8,7 @@ This application is bootstrapped with create-react-app using the _empty_ templat
 
 Clone repository with HTTPS:
 ```
-git clone https://github.com/bobmacneal/-window-resizing-hook.git
+git clone https://github.com/bobmacneal/resizing-hook-demo.git
 ```
 
 ### Installing Packages
