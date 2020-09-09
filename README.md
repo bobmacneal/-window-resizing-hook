@@ -2,7 +2,7 @@
 
 This application is bootstrapped with create-react-app using the _empty_ template:
 
-`npx create-react-app window-resizing-hook  --template cra-template-empty`
+`npx create-react-app resizing-hook-demo  --template cra-template-empty`
 
 ## Setup
 
